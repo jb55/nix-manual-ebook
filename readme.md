@@ -3,6 +3,6 @@
 
 The nix manual xml-docbook in ebook formats
 
-* [nix.epub](nix.epub)
-* [nix.mobi](nix.mobi)
+* [nix.epub](https://github.com/jb55/nix-manual-ebook/raw/master/nix.epub)
+* [nix.mobi](https://github.com/jb55/nix-manual-ebook/raw/master/nix.mobi)
 
